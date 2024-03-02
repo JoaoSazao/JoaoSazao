@@ -9,6 +9,7 @@
   <img align="center" alt="Sazon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sazon-Sass" height="30" width="40" src="https://sass-lang.com/assets/img/styleguide/color.png">
   <img align="center" alt="Sazon-Tail" height="30" width="40" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg">
+  <img align="center" alt="Sazon-Boots" height="30" width="40" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg">
 </div>
 
 ##
