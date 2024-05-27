@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm João! I am a Front End developer and currently live in Brazi.
 
-  - 🌱 I'm currently studying on a platform called Alura focused on programming and technology <img align="center" alt="html5" src="https://cdn6.aptoide.com/imgs/5/f/b/5fbc209c8b010d62bdf44087286f70a9_icon.png" />
+  - 🌱 I'm currently studying on a platform called Alura focused on programming and technology
 
   - 🔭 I currently work in the IT and Internet technical support area at Porto. However, I dream of working in the area of ​​Software Engineering
 </p>
