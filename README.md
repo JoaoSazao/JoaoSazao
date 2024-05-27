@@ -32,6 +32,11 @@
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoSazao&show_icons=true&theme=gotham)
 
+<!-- SnakeIMG -->
+<img src="https://raw.githubusercontent.com/JoaoSazao/JoaoSazao/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Portfolio -->
 ## Portfolio:
 - [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
