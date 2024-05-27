@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="color: #40A578" style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
 <!-- Presentation -->
@@ -41,10 +41,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+- [Fokus - Pomodoro Alura](https://github.com/JoaoSazao/Fokus)
+- [Margot Móveis - Card de Produto](https://github.com/JoaoSazao/MargotMoveis)
+- [Serenatto - Site de Cafeteria](https://github.com/JoaoSazao/Serenatto)
+- [Meteora - E-Commerce de Moda](https://github.com/JoaoSazao/Meteora)
 
 <!-- GIF -->
 <p align="left">
