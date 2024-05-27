@@ -30,7 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-victor-santos-de-sá-472b641b9/)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoSazao_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoSazao&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
