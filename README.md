@@ -1,8 +1,4 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&pause=1000&color=40A578&random=false&width=435&lines=%E2%9C%B5+Hello+World!+%E2%9C%B5;%E2%9C%B5+I'm+Jo%C3%A3o+and+welcome+%E2%9C%B5)](https://git.io/typing-svg)
 
 <!-- Presentation -->
 <p>
