@@ -33,7 +33,7 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoSazao&show_icons=true&theme=gotham)
 
 <!-- SnakeIMG -->
-<img src="https://raw.githubusercontent.com/JoaoSazao/JoaoSazao/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 
