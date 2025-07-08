@@ -72,5 +72,5 @@
   <!-- Skills: Databases -->
   <div style="flex-basis: 48%;">
     <h3>Databases</h3>
-    <img align="center" alt="SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svgg">
+    <img align="center" alt="MYSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   </div>
