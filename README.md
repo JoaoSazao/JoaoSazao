@@ -21,10 +21,6 @@ I currently work in customer service, focusing on technical support in IT and th
 <!-- Spotify -->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vmjvnxkuldbhimblp4pz2w5ha4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=40a571&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vmjvnxkuldbhimblp4pz2w5ha4&redirect=true)
 
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.victsa/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-victor-santos-de-sá-472b641b9/)
-
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoSazao&show_icons=true&theme=gotham)
 
