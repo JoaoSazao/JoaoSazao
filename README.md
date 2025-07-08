@@ -2,9 +2,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm João! I am a Front End developer and currently live in Brazi.
-
-  - 🌱 I'm currently studying on a platform called Alura focused on programming and technology
+  Hi 👋, I'm João! I am a FullStack developer and currently live in Brazi.
 
   - 🔭 I currently work in the IT and Internet technical support area at Porto. However, I dream of working in the area of ​​Software Engineering
 </p>
@@ -13,7 +11,9 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 19 years old, I currently live in São Paulo - SP - Brazil. For a long time, I was able to take a Computer Networks course, which I graduated in 2021. I completed an internship at the same institution where I studied to help with the local Network Infrastructure and, in addition, learn various topics focused on technology such as virtualization of servers with Proxmox and use of operating systems such as Linux and Ubuntu. I currently work in the area of ​​customer service with a focus on technical support in IT and internet, however, I intend to pursue the area of ​​Software Engineering at Faculdade FIAP in São Paulo.
+  - 💬 I am 20 years old and currently live in São Paulo, SP, Brazil. I studied Computer Networks, which I completed in 2021. I did an internship at the same institution where I studied, working in the area of ​​local Network Infrastructure. During this period, I had the opportunity to learn several topics related to technology, such as server virtualization with Proxmox and the use of operating systems such as Linux and Ubuntu.
+
+I currently work in customer service, focusing on technical support in IT and the internet. However, my goal is to pursue a career in Software Engineering. I intend to pursue my undergraduate degree at FIAP, in São Paulo, but I am initially studying Systems Analysis and Development at Faculdade Impacta.
 
   - ⚡ I really like reading, studying, building a Rubik's Cube, and the coolest thing of all, playing sports! I believe that all our skills influence our professional success, as it is there that we can develop our skills within the job market. \o/
 </details>
