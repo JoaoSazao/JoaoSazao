@@ -24,7 +24,7 @@ I currently work in customer service, focusing on technical support in IT and th
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpka2Fob29pZGdla3V6dGZ4cHQ0OXBtdHlhM2YyOWlwbW00Y3BmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgZFvGuI4OxLjuSvRF/giphy.gif" alt="Imagem">
+  <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJjMnJ1bnZ6b3NwZzZyamU2ODhua2FsdGZvaXBrOTVkYjk2bjRpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
