@@ -25,16 +25,9 @@ I currently work in customer service, focusing on technical support in IT and th
 
 ###
 
-<!-- Portfolio -->
-## Portfolio:
-- [Fokus - Pomodoro Alura](https://github.com/JoaoSazao/Fokus)
-- [Margot Móveis - Card de Produto](https://github.com/JoaoSazao/MargotMoveis)
-- [Serenatto - Site de Cafeteria](https://github.com/JoaoSazao/Serenatto)
-- [Meteora - E-Commerce de Moda](https://github.com/JoaoSazao/Meteora)
-
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpka2Fob29pZGdla3V6dGZ4cHQ0OXBtdHlhM2YyOWlwbW00Y3BmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgZFvGuI4OxLjuSvRF/giphy.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
