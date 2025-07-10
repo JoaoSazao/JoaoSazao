@@ -20,15 +20,10 @@ I currently work in customer service, focusing on technical support in IT and th
 <!-- Spotify -->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vmjvnxkuldbhimblp4pz2w5ha4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=40a571&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vmjvnxkuldbhimblp4pz2w5ha4&redirect=true)
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoSazao&show_icons=true&theme=gotham)
-
 <!-- SnakeIMG -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSazao&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Portfolio -->
 ## Portfolio:
