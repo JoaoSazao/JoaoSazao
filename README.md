@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=30&duration=2000&pause=1000&color=C250CD&center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Jo%C3%A3o!;Welcom!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=30&duration=2000&pause=1000&color=C250CD&center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Jo%C3%A3o!;Welcome!)](https://git.io/typing-svg)
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm João! I am a FullStack developer and currently live in Brazi.
+  Hi 👋, I'm João! I am a FullStack developer & Future Software Engineer and currently live in Brazi.
 
   - 🔭 I currently work in the IT and Internet technical support area at Porto. However, I dream of working in the area of ​​Software Engineering
 </p>
