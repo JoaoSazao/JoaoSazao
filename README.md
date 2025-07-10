@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Barlow+Condensed&size=36&pause=1000&color=40A578&random=false&width=435&lines=%E2%9C%B5+Hello+World!+%E2%9C%B5;%E2%9C%B5+I'm+Jo%C3%A3o+and+welcome+%E2%9C%B5)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=30&duration=2000&pause=1000&color=C250CD&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Jo%C3%A3o!;I+am+a+FullStack+developer+%26+Future+Software+Engineer)](https://git.io/typing-svg)
 <!-- Presentation -->
 <p>
   Hi 👋, I'm João! I am a FullStack developer and currently live in Brazi.
