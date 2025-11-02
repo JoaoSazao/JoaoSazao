@@ -22,10 +22,6 @@ I currently work in customer service, focusing on technical support in IT and th
 
 ###
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J3NXBjeHlwZWp2bzdrdGVzaGQ1aTdoZ2s0OHJqeno3dXIwamVlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TexuKBfvpWjaIuACrz/giphy.gif" alt="Imagem">
-</p>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
