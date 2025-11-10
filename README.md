@@ -1,54 +1,42 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=30&duration=2000&pause=1000&color=C250CD&center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Jo%C3%A3o!;Welcome!)](https://git.io/typing-svg)
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm João! I am a FullStack developer & Future Software Engineer and currently live in Brazi.
-
-  - 🔭 I currently work in the IT and Internet technical support area at Porto. However, I dream of working in the area of ​​Software Engineering
-</p>
-
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I am 20 years old and currently live in São Paulo, SP, Brazil. I studied Computer Networks, which I completed in 2021. I did an internship at the same institution where I studied, working in the area of ​​local Network Infrastructure. During this period, I had the opportunity to learn several topics related to technology, such as server virtualization with Proxmox and the use of operating systems such as Linux and Ubuntu.
-
-I currently work in customer service, focusing on technical support in IT and the internet. However, my goal is to pursue a career in Software Engineering. I intend to pursue my undergraduate degree at FIAP, in São Paulo, but I am initially studying Systems Analysis and Development at Faculdade Impacta.
-
-  - ⚡ I really like reading, studying, building a Rubik's Cube, and the coolest thing of all, playing sports! I believe that all our skills influence our professional success, as it is there that we can develop our skills within the job market. \o/
-</details>
-
-<!-- Spotify -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vmjvnxkuldbhimblp4pz2w5ha4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=40a571&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vmjvnxkuldbhimblp4pz2w5ha4&redirect=true)
+<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/typescript/typescript-original.svg">
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
-    <img align="center" alt="BootsTrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg">
-    <img align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://docs.flutterflow.io/logos/logoMark_outlinePrimary_transparent.svg">
-  </div>
+###
 
-  <!-- Skills: Databases -->
-  <div style="flex-basis: 48%;">
-    <h3>Databases</h3>
-    <img align="center" alt="MYSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
