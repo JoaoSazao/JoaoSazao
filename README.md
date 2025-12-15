@@ -52,6 +52,18 @@
 
 ###
 
+<h3 align="center">Automations</h3>
+
+###
+
+<div align="center">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/n8n-color.png" height="40" alt="nodejs logo"  />
+  <img width="12" />
+</div>
+
+###
+
+
 <h3 align="center">Social Medias</h3>
 
 ###
