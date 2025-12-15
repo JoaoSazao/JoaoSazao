@@ -58,7 +58,6 @@
 
 <div align="center">
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/n8n-color.png" height="40" alt="nodejs logo"  />
-  <img width="12" />
 </div>
 
 ###
